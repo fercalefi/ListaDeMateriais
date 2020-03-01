@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Orcamento.Models;
+using Orcamento.Models.ViewModels;
 
 namespace Orcamento.Controllers
 {
